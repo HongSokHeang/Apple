@@ -1,0 +1,6 @@
+D:\C#\Bài Tập\Bài Tập\bin\Debug\Bài Tập.exe.config
+D:\C#\Bài Tập\Bài Tập\bin\Debug\Bài Tập.exe
+D:\C#\Bài Tập\Bài Tập\bin\Debug\Bài Tập.pdb
+D:\C#\Bài Tập\Bài Tập\obj\Debug\Bài Tập.csprojResolveAssemblyReference.cache
+D:\C#\Bài Tập\Bài Tập\obj\Debug\Bài Tập.exe
+D:\C#\Bài Tập\Bài Tập\obj\Debug\Bài Tập.pdb
